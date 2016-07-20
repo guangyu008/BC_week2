@@ -1,2 +1,1 @@
-# BC_week2
-this is for group project
+# Movie_Team_Orange
